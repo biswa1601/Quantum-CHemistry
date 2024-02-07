@@ -1,1 +1,1 @@
-# Quantum-CHemistry
+# Quantum-Chemistry
